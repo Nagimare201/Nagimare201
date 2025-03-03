@@ -1,7 +1,8 @@
-## Nagimare
+# Nagimare
 もっぱら作曲してます。プログラミングとかはおまけ。
 
-# Language
+
+## Language
 - 日本語(native)
 - English
 
