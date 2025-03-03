@@ -1,4 +1,11 @@
-## Hi there 👋
+## Nagimare
+もっぱら作曲してます。プログラミングとかはおまけ。
+
+# Language
+- 日本語(native)
+- English
+
+へなちょこですが、C/C#/lua/Pythonあたりが書けるかもです。
 
 <!--
 **Nagimare201/Nagimare201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
